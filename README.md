@@ -3,4 +3,4 @@ This is part of the MATLAB code for "Weak Signal Detection with Low-bit Quantiza
 
 If you use the code, please cite our work:
 
-[1] Shixing Yang, Wei Yi, Andreas Jakobsson, Yao Wang, and Hang Xiao, "Weak Signal Detection with Low-bit Quantization in Colocated MIMO Radar", IEEE Transactions on Signal Processing, 2023.
+[1] Shixing Yang, Wei Yi, Andreas Jakobsson, Yao Wang, and Hang Xiao, "Weak Signal Detection with Low-bit Quantization in Colocated MIMO Radar", IEEE Transactions on Signal Processing, 2023. (DOI: 10.1109/TSP.2023.3246233)
